@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:text="Halaman Login"
+            android:textColor="@color/orange"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <TableRow
+        android:paddingStart="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:text="Username"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/edt_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:textColor="@color/white"
+            android:width="200dp"
+            android:textSize="20sp" />
+    </TableRow>
+
+    <TableRow
+        android:paddingStart="10dp">
+
+        <TextView
+            android:layout_width="151dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:text="Password"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edtPass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:width="200dp"
+            android:textColor="@color/white"
+            android:inputType="textPassword"
+            android:textSize="20sp" />
+
+    </TableRow>
+
+    <TableRow
+        android:paddingStart="10dp">
+
+        <TextView
+            android:layout_width="151dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:text="Fullname"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edtFullname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:width="200dp"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+    </TableRow>
+
+    <TableRow
+        android:paddingStart="10dp">
+
+        <TextView
+            android:layout_width="151dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:text="Address"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edtAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:width="200dp"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_column="1"
+            android:layout_marginTop="10dp"
+            android:background="@color/orange"
+            android:text="Login"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/result"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/white" />
+    </TableRow>
+
+
+</TableLayout>

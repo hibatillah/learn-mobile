@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
             binding.edtPanjang.setText("")
             binding.edtLebar.setText("")
             binding.edtTinggi.setText("")
+            binding.txHasil.setText("")
         }
         binding.btnHitung.setOnClickListener {
             val panjang = Integer.valueOf(binding.edtPanjang.getText().toString())
