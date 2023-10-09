@@ -3,4 +3,6 @@ Dokumentasi Mobile program studi Sistem Informasi [Politeknik Caltex Riau](https
 
 ### Materi
 - Kotlin basic
-- Layouting android
+- Layouting
+- Intent
+- Fragment
