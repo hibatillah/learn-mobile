@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/cycling"
+            android:icon="@drawable/ic_cycling"
+            android:title="@string/cycling" />
+        <item
+            android:id="@+id/bus"
+            android:icon="@drawable/ic_bus"
+            android:title="@string/bus" />
+        <item
+            android:id="@+id/plane"
+            android:icon="@drawable/ic_plane"
+            android:title="@string/plane" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="@string/profile">
+            <menu>
+                <item
+                    android:id="@+id/login"
+                    android:icon="@drawable/ic_login"
+                    android:title="@string/login" />
+            </menu>
+        </item>
+    </group>
+        <item android:title="@string/communicate">
+            <menu>
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/ic_share"
+                    android:title="@string/share" />
+                <item
+                    android:id="@+id/rate"
+                    android:icon="@drawable/ic_rate_us"
+                    android:title="@string/rateUs" />
+            </menu>
+        </item>
+</menu>
