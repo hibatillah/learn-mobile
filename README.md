@@ -6,3 +6,7 @@ Dokumentasi Mobile program studi Sistem Informasi [Politeknik Caltex Riau](https
 - Layouting
 - Intent
 - Fragment
+- Tab Layout
+- View Pager
+- Horizontal Scroll View
+- Drawer

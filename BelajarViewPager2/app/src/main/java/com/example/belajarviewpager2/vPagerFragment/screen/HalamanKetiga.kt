@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.fragment.findNavController
 import com.example.belajarviewpager2.R
 import androidx.viewpager2.widget.ViewPager2
 import com.example.belajarviewpager2.databinding.FragmentHalamanKetigaBinding
@@ -20,9 +21,19 @@ class HalamanKetiga : Fragment() {
         binding = FragmentHalamanKetigaBinding.bind(view)
         val viewPager = activity?.findViewById<ViewPager2>(R.id.viewPager)
 
-        binding.txtHalNext.setOnClickListener {
-            viewPager?.currentItem = 3
+        binding.txtSelesai.setOnClickListener {
+            findNavController().navigate(
+                R.id.action_viewPagerFragment_to_halamanUtamaFragment)
+            onBoardingFinished()
         }
         return view
+    }
+
+    private fun onBoardingFinished() {
+        val sharedPref = requireActivity()
+            .getSharedPreferences("onBoarding", Context.MODE_PRIVATE)
+        val editor = sharedPref.edit()
+        editor.putBoolean("Selesai", true)
+        editor.apply()
     }
 }
