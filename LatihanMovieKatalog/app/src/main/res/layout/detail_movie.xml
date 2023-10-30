@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/judul_movie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="Judul Movie"
+        android:layout_marginStart="16dp"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/poster"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_below="@id/judul_movie"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_weight="70"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rating_movie"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/poster"
+        android:layout_marginStart="16dp"
+        android:text="Rating"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/durasi_movie"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/rating_movie"
+        android:layout_marginStart="16dp"
+        android:text="Durasi"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/genre_movie"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/durasi_movie"
+        android:layout_marginStart="16dp"
+        android:text="Genre"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bahasa_movie"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/genre_movie"
+        android:layout_marginStart="16dp"
+        android:text="Bahasa"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pemeran_movie"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/bahasa_movie"
+        android:layout_marginStart="16dp"
+        android:text="Pemeran"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sinopsis_movie"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/pemeran_movie"
+        android:layout_marginStart="16dp"
+        android:text="Sinopsis"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center" />
+
+</RelativeLayout>
