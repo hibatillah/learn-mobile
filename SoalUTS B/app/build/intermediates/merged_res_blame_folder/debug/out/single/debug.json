@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_fragment_tiket_pesawat.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\fragment_tiket_pesawat.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-mdpi_ic_pengaturan.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-mdpi\\ic_pengaturan.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xhdpi_ic_wisata.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xhdpi\\ic_wisata.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_bmi.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\bmi.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xhdpi_ic_pengaturan.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xhdpi\\ic_pengaturan.png"
+    },
+    {
+        "merged": "com.ujian.soaluts.app-merged_res-31:/layout_fragment_taxi.xml.flat",
+        "source": "com.ujian.soaluts.app-main-33:/layout/fragment_taxi.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xhdpi_ic_regist.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xhdpi\\ic_regist.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-mdpi_ic_wisata.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-mdpi\\ic_wisata.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_halaman_utama.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\halaman_utama.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-anydpi_ic_pengaturan.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-anydpi\\ic_pengaturan.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xhdpi_ic_kalkulator.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xhdpi\\ic_kalkulator.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_header.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-mdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_fragment_halaman_kalkulator.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\fragment_halaman_kalkulator.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_splash.jpg.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-hdpi_ic_kalkulator.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-hdpi\\ic_kalkulator.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-mdpi_ic_kalkulator.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-mdpi\\ic_kalkulator.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_profil.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\profil.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-mdpi_ic_regist.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-mdpi\\ic_regist.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_login.jpg.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_plane.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\plane.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_uts.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\uts.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_head.jpg.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\head.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-hdpi_ic_regist.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-hdpi\\ic_regist.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xxhdpi_ic_pengaturan.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xxhdpi\\ic_pengaturan.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xxhdpi_ic_wisata.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xxhdpi\\ic_wisata.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-anydpi_ic_wisata.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-anydpi\\ic_wisata.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xxhdpi_ic_regist.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xxhdpi\\ic_regist.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-anydpi_ic_home.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-anydpi\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-hdpi_ic_pengaturan.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-hdpi\\ic_pengaturan.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-anydpi_ic_logout.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-anydpi\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_fragment_wisata.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\fragment_wisata.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_andro.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\andro.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_fragment_taxi.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\fragment_taxi.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_taxi.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\taxi.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.ujian.soaluts.app-merged_res-31:/layout_fragment_tiket_pesawat.xml.flat",
+        "source": "com.ujian.soaluts.app-main-33:/layout/fragment_tiket_pesawat.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-hdpi_ic_wisata.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-hdpi\\ic_wisata.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\layout_activity_registrasi.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\layout\\activity_registrasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_holiday.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\holiday.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\menu_nav_header_menu.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\menu\\nav_header_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-xxhdpi_ic_kalkulator.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-xxhdpi\\ic_kalkulator.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-anydpi_ic_kalkulator.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-anydpi\\ic_kalkulator.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-hdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable-anydpi_ic_regist.xml.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable-anydpi\\ic_regist.xml"
+    },
+    {
+        "merged": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-merged_res-31:\\drawable_regist.jpg.flat",
+        "source": "C:\\Users\\pcrla\\.gradle\\daemon\\8.0\\com.ujian.soaluts.app-main-33:\\drawable\\regist.jpg"
+    }
+]
