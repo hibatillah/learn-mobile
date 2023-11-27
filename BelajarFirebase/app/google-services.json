@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "276121135672",
+    "firebase_url": "https://belajarfirebase-8b2bc-default-rtdb.firebaseio.com",
+    "project_id": "belajarfirebase-8b2bc",
+    "storage_bucket": "belajarfirebase-8b2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276121135672:android:83c6190761784c401054cd",
+        "android_client_info": {
+          "package_name": "com.example.belajarfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrMZZuIQkuJLuiZ0nSsLpqlURWVhu8XgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
