@@ -14,3 +14,5 @@ Dokumentasi Mobile program studi Sistem Informasi [Politeknik Caltex Riau](https
 - View Pager
 - Drawer
 - Recycler View
+- SQLite
+- Firebase
