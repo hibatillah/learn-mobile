@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="btn_login">#098165</color>
+    <color name="btn_regist">#0C4777</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Soal UTS Mobile</string>
+    <string name="close">Close</string>
+    <string name="halaman_BMI">Halaman BMI</string>
+    <string name="halaman_pesawat">Halaman Pesawat</string>
+    <string name="halaman_taxi">Halaman Taxi</string>
+    <string name="halaman_wisataRiau">Halaman Wisata Riau</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="open">Open</string>
+    <string name="registrasi">Registrasi</string>
+    <style name="Base.Theme.SoalUTS" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.SoalUTS" parent="Base.Theme.SoalUTS"/>
+</resources>
